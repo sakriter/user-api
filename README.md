@@ -11,3 +11,14 @@ Technologies used :
     JUnit 4.12
     Maven 3
     Java 8
+
+MySQL :
+
+    username : root
+    password : 1234
+    database : testdb
+
+Maven :
+
+    mvnw spring-boot:run
+    
